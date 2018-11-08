@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Myrick/Myrick_BuildTestEndWk_003.unity
+  isLoaded: 1
+  isActive: 1
